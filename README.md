@@ -4,15 +4,15 @@ The project is for video editing through tools such as DesignCombo, ShaCDN, Reac
 
 ## Authors
 
-- [@Pablituuu](https://www.github.com/Pablituuu)
+- [@alilee0923](https://www.github.com/alilee0923)
 
 ## Installation
 
 Install react-video-editor with npm
 
 ```bash
-  git clone https://github.com/Pablituuu/react-video-editor.git
-  cd react-video-editor
+  git clone https://github.com/alilee0923/remotion-video-editor.git
+  cd remotion-video-editor
   npm install
   npm run dev
 ```
@@ -24,8 +24,3 @@ Install react-video-editor with npm
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Demo
-
-https://react-video-editor-mu.vercel.app/
-![Logo](image/image.png){width=50%}
